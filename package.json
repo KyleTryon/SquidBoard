@@ -1,0 +1,15 @@
+{
+  "name": "squidboarddisplay",
+  "version": "1.0.0",
+  "description": "split flap display based on https://www.instructables.com/id/IoT-Split-flap-Weather-Forecast-Powered-by-XOD/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Tryon",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.0.0",
+    "node-fetch": "^2.2.0"
+  }
+}
